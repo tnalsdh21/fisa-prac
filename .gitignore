@@ -1,0 +1,5 @@
+woorifisa/
+woori.cmd
+__pycache__/
+*/__pycache__/
+migrations/
