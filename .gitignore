@@ -3,3 +3,8 @@ woori.cmd
 __pycache__/
 */__pycache__/
 migrations/
+
+req.txt
+#비밀번호 관련 설정
+#개발용 배포용 파일 만들어서 관리 
+config.py
